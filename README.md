@@ -89,6 +89,3 @@ Essas informações podem auxiliar na priorização de melhorias operacionais.
 ## 👩‍💻 Autor
 
 Projeto desenvolvido para fins acadêmicos e prática em estruturação e análise de dados.
-## ▶️ Como executar o projeto
-
-1. Clone o repositório:
